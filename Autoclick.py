@@ -4,7 +4,6 @@ from colorama import Fore
 import socket
 import platform
 from datetime import datetime
-import time
 import threading
 from pynput.mouse import Button, Controller
   
